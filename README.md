@@ -1,11 +1,12 @@
 ![Description](https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572)
+
 # Mohamadmahdi Tajkarimi 🚀
 
 **Frontend Developer | Web Enthusiast**
 
 I’m a passionate **Frontend Developer** with a love for creating beautiful, functional websites. I specialize in modern web technologies like **Alpine.js**, **TailwindCSS**, and **Vue.js**, and I love building interactive user interfaces. Always striving to create the best **UX/UI** with the latest technologies.
 
-### 💪🏻 Skills
+## 💪🏻 Skills
 
 <div >
     <a href="https://html.com/" target="_blank">
@@ -61,7 +62,7 @@ I’m a passionate **Frontend Developer** with a love for creating beautiful, fu
     </a>
 </div>
 
-### 📞 Social Links
+## 📞 Social Links
 
 <div >
     <a href="https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/" target="_blank">
@@ -78,6 +79,7 @@ I’m a passionate **Frontend Developer** with a love for creating beautiful, fu
 📚 **Currently Learning**:
 
 🚀 I am currently learning these frameworks, feel free to explore my links below:
+
 <pre >
 Vue.js | React.js | Nuxt.js
 </pre>
@@ -85,7 +87,7 @@ Vue.js | React.js | Nuxt.js
 💡 **Fun Fact**:  
 When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. 🚀
 
-### 📊 GitHub Status
+## 📊 GitHub Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=transparent&border_color=3D444D" >
 
