@@ -90,5 +90,7 @@ Vue.js | React.js | Nuxt.js
 ## 📊 GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=radical&include_all_commits=true
 )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmahdi-87&layout=compact&theme=radical)
+
 
 ![Description](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
