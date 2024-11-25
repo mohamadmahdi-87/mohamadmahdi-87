@@ -85,7 +85,7 @@ Vue.js | React.js | Nuxt.js
 </pre>
 
 💡 **Fun Fact**:  
-When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. 🚀
+> When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. 🚀
 
 ## 📊 GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=radical)
