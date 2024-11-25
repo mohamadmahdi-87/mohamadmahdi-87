@@ -88,7 +88,6 @@ Vue.js | React.js | Nuxt.js
 When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. 🚀
 
 ## 📊 GitHub Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=transparent&border_color=3D444D" >
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=radical)
 
 ![Description](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
