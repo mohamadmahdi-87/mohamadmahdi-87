@@ -1,5 +1,4 @@
 ![Description](https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572)
-<img src="https://img.shields.io/w3c-validation/html5" alt="LinkedIn">
 
 # Mohamadmahdi Tajkarimi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Advance" width="25" style="max-width: 100%;">
 
