@@ -93,9 +93,9 @@ Vue.js | React.js | Nuxt.js
 
 ## 📊 GitHub Status
 <a href="https://github.com/mohamadmahdi-87" align="center">
-    <img   src="https://github-profile-trophy.vercel.app/?username=mohamadmahdi-87&theme=tokyonight" alt="GitHub Trophies" />
-    <img height="170px" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=radical&include_all_commits=true&card_width=300px&hide_title=true" alt="GitHub Stats">
-    <img height="170px" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmahdi-87&theme=radical&layout=compact&card_width=100px&hide_title=true" alt="Top Languages">
+    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=mohamadmahdi-87&theme=tokyonight" alt="GitHub Trophies" />
+    <img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&theme=radical&include_all_commits=true&card_width=300px&hide_title=true" alt="GitHub Stats">
+    <img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmahdi-87&theme=radical&layout=compact&card_width=100px&hide_title=true" alt="Top Languages">
 </a>
 
 
