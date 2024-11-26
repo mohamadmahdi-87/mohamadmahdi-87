@@ -1,13 +1,12 @@
 ![Description](https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572)
 
+# Mohamadmahdi Tajkarimi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Advance" width="25" style="max-width: 100%;">
 
-# Mohamadmahdi Tajkarimi 🚀
-
-**Frontend Developer | Web Enthusiast**
+**Frontend Developer | Web Enthusiast** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Comet.png" alt="Advance" width="25" style="max-width: 100%;">
 
 I’m a passionate **Frontend Developer** with a love for creating beautiful, functional websites. I specialize in modern web technologies like **Alpine.js**, **TailwindCSS**, and **Vue.js**, and I love building interactive user interfaces. Always striving to create the best **UX/UI** with the latest technologies.
 
-## 💪🏻 Skills
+## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25" style="max-width: 100%;">
 
 <div align="center">
     <a href="https://html.com/" target="_blank">
@@ -63,7 +62,7 @@ I’m a passionate **Frontend Developer** with a love for creating beautiful, fu
     </a>
 </div>
 
-## 📞 Social Links
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Telephone%20Receiver.png" alt="Advance" width="25" style="max-width: 100%;"> Social Links
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/" rel="nofollow">
@@ -79,24 +78,24 @@ I’m a passionate **Frontend Developer** with a love for creating beautiful, fu
 </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Books.png" alt="Advance" width="25" style="max-width: 100%;"> **Currently Learning**:
 
-📚 **Currently Learning**:
-
-🚀 I am currently learning these frameworks, feel free to explore my links below:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Advance" width="25" style="max-width: 100%;"> I am currently learning these frameworks, feel free to explore my links below:
 
 <pre >
 Vue.js | React.js | Nuxt.js
 </pre>
 
-💡 **Fun Fact**:  
-> When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. 🚀
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light Bulb.png?raw=true" alt="Advance" width="25" style="max-width: 100%;"> **Fun Fact**:
 
-## 📊 GitHub Status
+> When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Advance" width="25" style="max-width: 100%;">
+
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" alt="Advance" width="25" style="max-width: 100%;"> GitHub Status
+
 <a href="https://github.com/mohamadmahdi-87" align="center">
     <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=mohamadmahdi-87&theme=tokyonight" alt="GitHub Trophies" />
     <img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&show_icons=true&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" alt="GitHub Stats">
     <img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmahdi-87&layout=compact&theme=radical&show_icons=true&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" alt="Top Languages">
 </a>
-
 
 ![Description](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
