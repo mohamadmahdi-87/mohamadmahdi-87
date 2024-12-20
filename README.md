@@ -119,7 +119,7 @@ Vue.js | React.js | Nuxt.js
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light Bulb.png?raw=true" alt="Advance" width="25" style="max-width: 100%;"> **Fun Fact**:
 
-> When I’m not coding, you’ll find me gaming, exploring new tech, or designing creative UI/UX concepts. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Advance" width="25" style="max-width: 100%;">
+> When I’m not coding, you’ll find me exploring new tech, or designing creative UI/UX concepts. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Advance" width="25" style="max-width: 100%;">
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" alt="Advance" width="25" style="max-width: 100%;"> GitHub Status
 
