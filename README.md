@@ -127,7 +127,7 @@ Vue.js | React.js | Nuxt.js
     <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=mohamadmahdi-87&theme=tokyonight" alt="GitHub Trophies" />
 <img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=mohamadmahdi-87&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true&rank_icon=github" alt="GitHub Stats">
 
-<img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmahdi-87&layout=compact&theme=radical&show_icons=true&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" alt="Top Languages">
+<img height="170px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadmahdi-87&layout=compact&theme=radical&show_icons=true&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" alt="Top Languages">
 
 </a>
 
