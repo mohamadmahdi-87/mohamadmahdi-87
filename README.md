@@ -1,86 +1,88 @@
-<p align="center">
-  <img src="./assets/wave.gif" width="64" height="64" alt="Hello — animated waving hand" />
-</p>
-
-<h1 align="center">Mohamadmahdi Tajkarimi</h1>
-
-<h3 align="center">Frontend Developer &amp; UI/UX Designer</h3>
+<h1 align="center">
+  <img src="./assets/wave.gif" width="36" height="36" alt="Hello" />
+  Mohamadmahdi Tajkarimi
+</h1>
 
 <p align="center">
-  Turning real requirements into thoughtful design and dependable web experiences.
-</p>
-
-<p align="center">
-  <strong>React · Tailwind CSS · Laravel</strong><br />
-  Available for remote opportunities and freelance collaborations
+  <strong>Frontend Developer &amp; UI/UX Designer</strong><br />
+  Thoughtful design. Precise interfaces. Reliable implementation.
 </p>
 
 <p align="center">
-  <a href="https://www.webzad.ir"><img src="./assets/portfolio-card.svg" width="360" alt="Portfolio — visit webzad.ir" /></a>
-  <a href="https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/"><img src="./assets/linkedin-card.svg" width="360" alt="LinkedIn — connect with Mohamadmahdi Tajkarimi" /></a>
+  <sub>5 YEARS OF FREELANCE EXPERIENCE &nbsp; · &nbsp; OPEN TO REMOTE WORK</sub>
 </p>
 
----
+<p align="center">
+  <a href="https://www.webzad.ir"><img src="./assets/portfolio-card.svg" width="340" alt="Portfolio — visit webzad.ir" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/"><img src="./assets/linkedin-card.svg" width="340" alt="LinkedIn — connect with Mohamadmahdi Tajkarimi" /></a>
+</p>
 
-## About Me
+## About
 
-I’m a frontend developer and UI/UX designer with **five years of freelance experience**, working at the intersection of visual design and web engineering.
+I’m a frontend developer and UI/UX designer with **five years of freelance experience**, connecting product requirements, visual design, and working interfaces. I take ownership of frontend delivery — from understanding the client’s needs to refining the experience and verifying the result.
 
-My work spans understanding client requirements, shaping user journeys, and implementing the details that make an interface feel coherent and intuitive. I’ve primarily owned frontend delivery, while also developing backend functionality with **Laravel and Next.js** when the scope required it.
+My core stack is **React, Tailwind CSS, and Laravel**. I also work with **Vue.js and Next.js**, and have developed backend functionality when projects required it. My focus is on precise, responsive interfaces that work naturally with real content, different screen sizes, and right-to-left languages.
 
-**React and Tailwind CSS** are at the heart of my frontend practice. I also work with **Vue.js**, bringing the same attention to layout, interaction, and usability across different stacks.
+<h2><img src="./assets/sparkles.gif" width="24" height="24" alt="" /> Expertise</h2>
 
-I care about more than how an interface looks in a mockup. It needs to adapt to real content, work across screen sizes, support its users’ language and reading direction, and behave reliably in everyday use.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Interface Design &amp; UX</strong><br />
+      Clear user flows, considered visual hierarchy, and interaction details carried through to implementation.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend Engineering</strong><br />
+      React development and precise Tailwind CSS layouts, with responsive behavior and RTL support built in.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend Development</strong><br />
+      Laravel as my primary backend framework, with Next.js experience when the project calls for it.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Testing &amp; Delivery</strong><br />
+      Functional verification and automated tests to check important workflows and build confidence in delivery.
+    </td>
+  </tr>
+</table>
 
-<h2><img src="./assets/sparkles.gif" width="28" height="28" alt="" /> Areas of Focus</h2>
+## Technology
 
-- **UI/UX design & implementation** — Connecting user flows, visual hierarchy, and interaction details with the finished interface.
-- **React development** — Translating product requirements into interactive web experiences.
-- **Tailwind CSS** — Building precise, consistent layouts with careful control over responsive behavior.
-- **RTL interfaces** — Treating right-to-left layouts as part of the experience, not a final styling adjustment.
-- **Laravel development** — Implementing backend functionality when a project needs support beyond the frontend.
-- **Testing & verification** — Checking essential workflows and using automated tests to improve confidence in delivery.
+<table>
+  <tr>
+    <td valign="middle"><strong>Core stack</strong></td>
+    <td>
+      <img src="./assets/core.svg" height="32" width="107" alt="React, Tailwind CSS, Laravel" /><br />
+      <sub>React · Tailwind CSS · Laravel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Languages &amp; foundations</strong></td>
+    <td>
+      <img src="./assets/web.svg" height="32" width="182" alt="TypeScript, JavaScript, PHP, HTML, CSS" /><br />
+      <sub>TypeScript · JavaScript · PHP · HTML · CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Additional frameworks</strong></td>
+    <td>
+      <img src="./assets/frameworks.svg" height="32" width="70" alt="Next.js, Vue.js" /><br />
+      <sub>Next.js · Vue.js</sub>
+    </td>
+  </tr>
+</table>
 
-## Technical Toolkit
+<h2><img src="./assets/education.gif" width="26" height="26" alt="" /> Background &amp; Education</h2>
 
-### Core Technologies
+I started freelancing at **thirteen**, learning through real projects and direct client collaboration. That early start shaped how I work today: communicate clearly, learn independently, and take responsibility for the result.
 
-<img src="./assets/core.svg" alt="React, Tailwind CSS, Laravel" />
+I’m currently pursuing a degree in **computing at Imam Sadegh University in Babol**, a public university in Iran, alongside my professional work.
 
-**React · Tailwind CSS · Laravel**
+## Collaboration
 
-### Languages & Web Foundations
+I’m open to **remote frontend roles** and **freelance projects** that value both thoughtful UI/UX and careful implementation. I bring a practical approach to collaboration: understand the problem, make deliberate decisions, and keep the client’s goals in view.
 
-<img src="./assets/web.svg" alt="TypeScript, JavaScript, PHP, HTML, CSS" />
-
-**TypeScript · JavaScript · PHP · HTML · CSS**
-
-### Additional Frameworks
-
-<img src="./assets/frameworks.svg" alt="Next.js, Vue.js" />
-
-**Next.js · Vue.js**
-
----
-
-## Working With Me
-
-I value clear requirements, direct communication, and ownership of the work I take on. Freelancing has taught me to balance design decisions with practical constraints and keep the client’s actual goals in view.
-
-My approach is straightforward: **understand the problem, design with intent, implement carefully, and verify the result.**
-
-<h2><img src="./assets/education.gif" width="30" height="30" alt="" /> Background & Education</h2>
-
-I began freelancing at **thirteen**, building my experience through hands-on work and direct collaboration with clients. Starting early taught me to learn independently, respond to feedback, and take responsibility for what I deliver.
-
-Alongside my professional work, I’m pursuing a degree in **computing at Imam Sadegh University in Babol**, a public university in Iran.
-
----
-
-## Let’s Connect
-
-I’m interested in **remote frontend roles** and **freelance projects** where strong UI/UX and careful implementation are equally important.
-
-If you’re looking for someone who can contribute to both the design and development of a web product, I’d be glad to hear from you.
-
-**[Visit my website](https://www.webzad.ir) · [Connect on LinkedIn](https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/)**
+**[Explore my website ↗](https://www.webzad.ir)** &nbsp; · &nbsp; **[Let’s connect on LinkedIn ↗](https://www.linkedin.com/in/mohamadmahdi-tajkarimi-a37519245/)**
